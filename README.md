@@ -10,7 +10,7 @@
 
 ## Overview
 
-This writeup documents the full exploitation chain for breaking out of a locked-down Citrix desktop environment and escalating privileges to `SYSTEM`/Administrator level. The environment simulates a real-world corporate Citrix deployment with group policy restrictions, UAC, and limited shell access.
+This write-up documents the full exploitation chain for breaking out of a locked-down Citrix desktop environment and escalating privileges to `SYSTEM`/Administrator level. The environment simulates a real-world corporate Citrix deployment with group policy restrictions, UAC, and limited shell access.
 
 **Attack Chain Summary:**
 
