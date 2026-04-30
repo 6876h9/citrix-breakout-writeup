@@ -1,6 +1,6 @@
 # HTB Academy — Citrix Breakout & Privilege Escalation
 
-**Author:** [6876h9](https://github.com/6876h9)  
+**Solved by:** [6876h9](https://github.com/6876h9)  
 **Platform:** Hack The Box Academy  
 **Module:** Windows Privilege Escalation  
 **Difficulty:** Medium  
@@ -205,7 +205,7 @@ type C:\Users\Administrator\Desktop\flag.txt
 
 ![Flag](screenshots/flag.png)
 
-**Flag:** `Citr!x_3sCGp3_@dm!n`
+**Flag:** `C1tr!x_3s@Gp3_@dm!n`
 
 ---
 
